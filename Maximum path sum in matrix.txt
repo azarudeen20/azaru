@@ -16,9 +16,7 @@ The maximum path sum of matrix is : 24
 sample input
 mat[][] =
 10 20 90
-
 15 75 25
-
 44 88 66
 
 sample output
@@ -26,12 +24,9 @@ The maximum path sum of matrix is : 253
 
 sample input
 mat[][] =
-5 6 1 7  
-                    
--2 10 8 -1 
-                    
-3 -7 -9 11
-                     
+5 6 1 7               
+-2 10 8 -1              
+3 -7 -9 11          
 12 -4 2 6
 
 sample output
